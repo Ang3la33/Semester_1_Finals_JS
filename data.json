@@ -1,0 +1,213 @@
+
+{
+    "dogs": [
+
+        {
+            "rank":  1,
+            "breed": "Rottweilers",
+            "size":  "large",
+            "coat type": [
+                "short",
+                "dense",
+                "and double-coat"
+            ],
+            "color": "black with mahogany markings on their cheeks, chest, legs, and eyebrows",
+            "temperament": [
+                "loyal",
+                "confident",
+                "protective",
+                "intelligent",
+                "and devoted to their people"
+            ],
+            "fun fact": "They were originally bred in a small german town called Rotweil (hense their name) for the purpose of cattle driving. Classified as working dogs, they have had many roles including police dogs, guard dogs, and loyal companions."
+        },
+        {
+            "rank": 2,
+            "breed": "Cocker Spaniels",
+            "size": "medium",
+            "coat type": [
+                "silky",
+                "and double-coat"
+            ],
+            "color": [
+                "black",
+                "liver",
+                "black and white",
+                "liver and white",
+                "red",
+                "and buff"
+            ],
+            "temperament": [
+                "friendly",
+                "affectionate",
+                "and eager to please"
+            ],
+            "fun fact": "They were originally bred as hunting dogs, specifically for flushing out and retrieving game birds such as the woodcock, whick is where they got their name."
+        },
+        {
+            "rank": 3,
+            "breed": "Irish Wolfhounds",
+            "size": "giant",
+            "coat type": [
+                "rough",
+                "wiry",
+                "long",
+                "and dense"
+            ],
+            "color": [
+                "grey",
+                "brindle",
+                "red",
+                "black",
+                "white",
+                "fawn",
+                "and combination"
+            ],
+            "temperament": [
+                "gentle giants",
+                "and affectionate"
+            ],
+            "fun fact": "This breed dates back to ancient times when they were revered by Celtic warriors for their courage in battle."
+        },
+        {
+            "rank": 3,
+            "breed": "Belgian Malinois",
+            "size": "medium",
+            "coat type": [
+                "short",
+                "straight",
+                "and dense"
+            ],
+            "color": "fawn to mahogany with black markings on ears and muzzle",
+            "temperament": [
+                "intelligent",
+                "highly energetic",
+                "and loyal"
+            ],
+            "fun fact": "This breed is known for their athleticism as well as agility making them the preferred choice for both police and military."
+        },
+        {
+            "rank": 4,
+            "breed": "Mastiffs",
+            "size": "giant",
+            "coat type": [
+                "short",
+                "and dense"
+            ],
+            "color": [
+                "fawn",
+                "apricot",
+                "brindle",
+                "and black"
+            ],
+            "temperament": [
+                "gentle giants",
+                "affectionate",
+                "protective",
+                "and devoted to their people"
+            ],
+            "fun fact": "They are one of the oldest dog breeds with a history dating back thousands of years. Originally bred for guarding, protecting livestock, and serving as war dogs."
+        },
+        {
+            "rank": 6,
+            "breed": "Newfoundlands",
+            "size": "giant",
+            "coat type": [
+                "thick",
+                "water-resistant",
+                "and double-coat"
+            ],
+            "color": [
+                "black",
+                "brown",
+                "grey",
+                "and landseer(white with black markings)"
+            ],
+            "temperament": [
+                "gentle",
+                "affectionate",
+                "and loyal"
+            ],
+            "fun fact": "They were originally bred as working dogs for fishermen in Newfoundland. They are still renowned today for their water rescue abilities and are often used as therapy dogs and lifeguards."
+        },
+        {
+            "rank": 7,
+            "breed": "Great Danes",
+            "size": "giant",
+            "coat type": [
+                "short",
+                "and smooth"
+            ],
+            "color": [
+                "fawn",
+                "brindle",
+                "blue",
+                "black",
+                "harlequin",
+                "and mantle"
+            ],
+            "temperament": [
+                "gentle",
+                "affectionate",
+                "friendly",
+                "and loyal"
+            ],
+            "fun fact": "They were originally bred in Germany to hunt wild boar, deer, and other large game."
+        },
+        {
+            "rank": 8,
+            "breed": "Siberian Huskies",
+            "size": "medium",
+            "coat type": [
+                "thick",
+                "and double-coat"
+            ],
+            "color": [
+                "black",
+                "grey",
+                "red",
+                "and sable"
+            ],
+            "temperament": [
+                "friendly",
+                "outgoing",
+                "intelligent",
+                "and independent"
+            ],
+            "fun fact": "They are known for their endurance and stamina and were originally bred by the Chukchi people of Siberia as sled dogs."
+        },
+        {
+            "rank": 9,
+            "breed": "Labrador Retrievers",
+            "size": "large",
+            "coat type": [
+                "short",
+                "dense",
+                "and water-resistant"
+            ],
+            "color": [
+                "black",
+                "chocolate",
+                "and yellow"
+            ],
+            "temperament": [
+                "friendly",
+                "outgoing",
+                "loyal",
+                " and affectionate"
+            ],
+            "fun fact": "They are one of the most popular breeds in the world and excel in a wide range of activities including retrieving, hunting, assistance work, search and rescue, and competitive sports."
+        },
+        {
+            "rank": 10,
+            "breed": "Mutts",
+            "size": "anywhere from small to giant",
+            "coat type": "anywhere from short and silky to long and fluffy",
+            "color": "anything from black to white and a mixture of all of these",
+            "temperament": "a loyal companion",
+            "fun fact": "Your next best friend could be waiting at a shelter!"
+        }
+    
+    ]
+    
+}
